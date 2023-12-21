@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rich-Hopkins
 - 👀 I’m interested in aviation ✈, home 🏡 remodeling, photography 📷
-- 🌱 I’m currently learning .Net Core, Angular, EF, Blazor (some for work, some for pleasure)
+- 🌱 I’m currently working with ASP.NET, .Net Core, Angular, EF, and learning React
 - 💞️ I’m looking to collaborate on ways to improve the pilot and volunteer experience for Young Eagles flight events
 - 📫 How to reach me 
   - rich.hopkins@outlook.com
